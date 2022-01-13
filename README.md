@@ -4,6 +4,7 @@ m-LCuts: masked Collinear Graph Cuts. This repo is the code to implement graph-t
 ## Related papers
 Please cite the following papers if you are referring the code. And please let me know if you have any questions. Thank you!
 Email: jiewang@virginia.edu
+
 [1]	J. Wang, M. Zhang, J. Zhang, Y. Wang, Andreas Gahlmann, and S. T. Acton, “Graph-theoretic Post-processing of Segmentation with Application to Dense Biofilms.” IEEE Transaction on Image Processing, 30, 8580-8594. (2021) [Paper](https://ieeexplore.ieee.org/abstract/document/9562258)
 
 Due to the technical issues of the original website listed in [1] "http://viva-lab.ece.virginia.edu/pages/projects/biofilm.html", please refer to the current repo for code updates. Sorry for the inconvenience.
