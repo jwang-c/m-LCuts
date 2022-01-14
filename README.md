@@ -18,10 +18,16 @@ Prior papers:
 Other codes: [BCM3D](https://github.com/GahlmannLab/BCM3D) and [LCuts](https://github.com/jwang-c/Postprocessing-using-LCuts)
 
 ## Code description
-For details, please refer to the pseudocode sections in [1]. More descriptions are soon to be updated.
+For details, please refer to the pseudocode sections in [1].
+[mLCuts.m](support functions/mLCuts.m) file is the main function -- Algorithm 1 in [1].
+The support functions can be catogorized based on three major sections in Algorithm 1: graph construction, recursive graph cuts, and biofilm reconstruction.
 
 ## Run the code
-Just run the [demo.m](demo.m) file. (In documenting... will be posted soon.)
+Just run the [demo_real.m](demo_real.m) file. Data is real bacterial biofilm data from [2].
+For real data, the post-processing needs may be uncatogorized. Here, we demonstrate a possible solution. Each case, the under- or over-segmented cases, are treated separately via m-LCuts, but in a sequential manner.
+
+For individual situation with MODE identified, just run mLCuts function with inputs.
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
