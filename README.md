@@ -1,5 +1,5 @@
 # m-LCuts
-m-LCuts: masked Collinear Graph Cuts. This repo is the code to implement graph-theoretic post-processing procedure on under-segmented or/and over-segmented clusters for 3D bacterial dataset.
+m-LCuts: masked Collinear Graph Cuts. This repo include the code to implement graph-theoretic post-processing procedure on under-segmented or/and over-segmented clusters for 3D bacterial dataset.
 
 ## Related papers
 Please cite the following papers if you are referring the code. And please let me know if you have any questions. Thank you!
