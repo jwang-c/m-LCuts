@@ -22,7 +22,7 @@ For details, please refer to the pseudocode sections in [1].
 
 [mLCuts.m](mLCuts.m) file is the main function -- Algorithm 1 and Figure 2 in [1].
 
-![Screenshot](mLCuts.png)
+![Screenshot](mLCuts_workflow.png)
 
 The support functions can be catogorized based on three major sections in Algorithm 1: graph construction, recursive graph cuts, and biofilm reconstruction.
 
