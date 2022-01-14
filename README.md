@@ -20,7 +20,7 @@ Other codes: [BCM3D](https://github.com/GahlmannLab/BCM3D) and [LCuts](https://g
 ## Code description
 For details, please refer to the pseudocode sections in [1].
 
-[mLCuts.m](support\ functions/mLCuts.m) file is the main function -- Algorithm 1 in [1].
+[mLCuts.m](mLCuts.m) file is the main function -- Algorithm 1 in [1].
 
 The support functions can be catogorized based on three major sections in Algorithm 1: graph construction, recursive graph cuts, and biofilm reconstruction.
 
